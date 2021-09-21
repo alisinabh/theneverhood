@@ -20,6 +20,10 @@ After that is done, **DON'T** close the window. Instead open another one and run
 
 Now you may use the `03-run.sh` to run the game.
 
+## Resources
+
+ - Running Desktop Apps in Docker [link](https://betterprogramming.pub/running-desktop-apps-in-docker-43a70a5265c4)
+ - [Neverhood.iso](https://www.myabandonware.com/game/the-neverhood-451#download)
 
 ## License
 
